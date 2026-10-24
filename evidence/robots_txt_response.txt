@@ -1,0 +1,11 @@
+GET https://books.toscrape.com/robots.txt
+status: 404
+fetched: 2026-10-24 09:16:07
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>

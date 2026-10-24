@@ -1,0 +1,3 @@
+Source: https://books.toscrape.com/ (homepage banner, fetched 2026-10-24)
+
+Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning.

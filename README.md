@@ -73,7 +73,7 @@ The same structure fits real jobs such as product catalogues, price monitoring a
 are allowed to collect from, within their terms and robots.txt.
 
 ## Contact
-SheldonTek: https://sheldontek.com
+Built by SheldonTek Co., Limited (Hong Kong).
 
 ## License
 MIT © 2026 SheldonTek Co., Limited. See [LICENSE](LICENSE).
